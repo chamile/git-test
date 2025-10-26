@@ -7,3 +7,5 @@ console.log(name, age, isStudent);
 const add = (a: number, b: number): number => {
   return a + b;
 };
+
+// adding something 
