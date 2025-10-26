@@ -26,3 +26,5 @@ const add = (a: number, b: number): number => {
 // adding something 
 // adding something 
 // 4th comment
+// 4th comment
+// 5th comment
