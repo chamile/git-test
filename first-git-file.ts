@@ -8,6 +8,5 @@ const add = (a: number, b: number): number => {
   return a + b;
 };
 
-// adding something // qweqwewqeewqe
-// from first-branch
-// 3rd comment
+// adding new commit message
+//whatelse, will find anyting if noen of 
