@@ -11,3 +11,8 @@ const add = (a: number, b: number): number => {
 // adding new commit message
 //whatelse, will find anyting if noen of 
 // adding something 
+// adding something // qweqwewqeewqe
+// from first-branch
+// 3rd comment
+// adding new commit message
+//whatelse, will find anyting if noen of 
