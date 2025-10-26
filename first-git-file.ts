@@ -18,3 +18,5 @@ const add = (a: number, b: number): number => {
 //whatelse, will find anyting if noen of 
 // adding something 
 // 4th comment
+// 4th comment
+// 5th comment
